@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+.settings
+target
+.project
+.classpath
+*.log
+.metadata/
+.idea/
+*.iml
+logs
+node_modules/*
